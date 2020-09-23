@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) .
+The application gives latest news based on selected filters or news source(eg ALJazeera,BBC,CNN,Fox News,TechCrunch,The Hindu)
+The [News API](https://newsapi.org/) has been used and get requests are made to the API based on the selected filter or source.As the API has lately withdrawn support for 
+giving data other than for local developement,publishing the app on gh-pages isn't possible
+
 
 ## Available Scripts
 
