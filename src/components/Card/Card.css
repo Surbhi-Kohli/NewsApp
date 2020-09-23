@@ -2,6 +2,7 @@
   padding: 0 20px;
   text-decoration: none;
   margin: 5px;
+  margin-bottom: 3px;
   width: 100%;
   height: 100%;
   border-color: black;
@@ -66,7 +67,7 @@
 }
 .Font_Description {
   font-family: "Gill Sans", sans-serif;
-  font-size: 16px;
+  font-size: 14px;
 }
 @media screen and (min-width: 768px) {
   .shareClass {
