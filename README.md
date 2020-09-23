@@ -5,10 +5,10 @@ The [News API](https://newsapi.org/) has been used and get requests are made to 
 giving data other than for local developement,publishing the app on gh-pages isn't possible.
 
 ### Snapshots of the application
-![Snap1](./NewsAppSnip1.png)
-![Snap2](./NewsAppSnip2.png)
-![Snap3](./NewsAppSnip3.png)
-![Snap4](./NewsAppSnip4.png)
+![Snap1](./NewsAppSnip1.PNG)
+![Snap2](./NewsAppSnip2.PNG)
+![Snap3](./NewsAppSnip3.PNG)
+![Snap4](./NewsAppSnip4.PNG)
 
 ## Available Scripts
 
