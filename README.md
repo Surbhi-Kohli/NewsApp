@@ -7,6 +7,8 @@ giving data other than for local developement,publishing the app on gh-pages isn
 ### Snapshots of the application
 ![Snap1](./NewsAppSnip1.PNG)
 ![Snap2](./NewsAppSnip2.PNG)
+
+### Smaller resolution view
 ![Snap3](./NewsAppSnip3.PNG)
 ![Snap4](./NewsAppSnip4.PNG)
 
