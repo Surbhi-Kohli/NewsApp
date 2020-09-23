@@ -1,0 +1,21 @@
+.toggle_button {
+    display: flex;
+    flex-direction: column; /* we want the 3 bars to be below each other*/
+    justify-content: space-around; /* without this the 3 lines would get stacked onto each other*/
+    height: 24px;
+    width: 36px;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    box-sizing: border-box; /* to make sure that lines stay inside the button */
+  }
+  toggle_button:focus {
+    outline: none;
+  }
+  .toggle_button_line {
+    width: 30px; /* % width won't work here*/
+    height: 1px;
+    background: white;
+  }
+  
